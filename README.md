@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rickymuhindo
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently a phd candidate computer science
+- 🌱 I have a phd in computer science
 - 💞️ I’m looking to collaborate on building data classification model on quantum computer
 - 📫 How to reach me connect with me on linkedin
 
