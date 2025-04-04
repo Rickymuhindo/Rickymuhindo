@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rickymuhindo
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in AI model building and deployment
 - 🌱 I have a phd in computer science
-- 💞️ I’m looking to collaborate on building data classification model on quantum computer
+- 💞️ I’m looking to collaborate on building CNN, RNN models
 - 📫 How to reach me connect with me on linkedin
 
 <!---
